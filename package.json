@@ -1,14 +1,15 @@
 {
-  "name": "07-restserver",
+  "name": "express-api-basic-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic API Template for Express in NodeJS",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["NodeJS", "Javascript", "Express", "API"],
+  "author": "Alexis Garcia - gh:@alexisg24",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
