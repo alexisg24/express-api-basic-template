@@ -2,7 +2,7 @@
   "name": "express-api-basic-template",
   "version": "1.0.0",
   "description": "Basic API Template for Express in NodeJS",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
     "start": "node app.js"
